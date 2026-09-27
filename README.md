@@ -22,6 +22,20 @@ The final fine-tuned model correctly classified:
 47 / 50 handwritten test images
 ```
 
+## Demo
+
+### Handwritten Input
+
+![Handwritten digit](docs/screenshots/handwritten_digit.png)
+
+### API Prediction
+
+![FastAPI prediction](docs/screenshots/api_prediction.png)
+
+### Fine-tuned CNN Confusion Matrix
+
+![Fine-tuned CNN confusion matrix](docs/screenshots/confusion_matrix.png)
+
 ## Model Progression
 
 ```text
