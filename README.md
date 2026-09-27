@@ -1,5 +1,7 @@
 # MNIST Handwriting Classifier
 
+[![Tests](https://github.com/alikhanmussin/mnist-handwriting-classifier/actions/workflows/tests.yml/badge.svg)](https://github.com/alikhanmussin/mnist-handwriting-classifier/actions/workflows/tests.yml)
+
 An end-to-end handwritten digit classification project built with **TensorFlow, CNNs, image preprocessing, fine-tuning, FastAPI, pytest, and GitHub Actions**.
 
 The project started with a basic MNIST classifier and was progressively improved using convolutional neural networks, data augmentation, custom handwriting data, preprocessing, and fine-tuning.
