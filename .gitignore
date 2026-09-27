@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Temporary/debug images
+processed_digit.png
+
+# Generated processed benchmark images
+processed_custom/
+
+# IDE
+.vscode/
+
+# Logs
+*.log
